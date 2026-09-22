@@ -1,6 +1,3 @@
-# Student-Performance-Prediction
-Student Performance Prediction using Machine Learning and Explainable AI
-
 # Student Performance Prediction Using Machine Learning and Explainable AI
 
 ## Team Members
