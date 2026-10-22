@@ -1,0 +1,13 @@
+Dataset,Model,Best_CV_At_Risk_F1,Best_Params
+Mathematics,Logistic Regression,0.5184256720475111,{'model__C': 10.0}
+Mathematics,Decision Tree,0.48476356471875953,"{'model__max_depth': 5, 'model__min_samples_leaf': 4}"
+Mathematics,Random Forest,0.4054939668174963,"{'model__max_depth': None, 'model__min_samples_leaf': 1, 'model__n_estimators': 100}"
+Mathematics,SVM,0.5386475963061328,"{'model__C': 10.0, 'model__kernel': 'linear'}"
+Mathematics,KNN,0.4408707075335524,"{'model__n_neighbors': 3, 'model__weights': 'uniform'}"
+Mathematics,ANN,0.466455194593285,"{'model__alpha': 0.0001, 'model__hidden_layer_sizes': (32,)}"
+Portuguese,Logistic Regression,0.5418511737217501,{'model__C': 10.0}
+Portuguese,Decision Tree,0.49892696666890224,"{'model__max_depth': 5, 'model__min_samples_leaf': 4}"
+Portuguese,Random Forest,0.4777069243156199,"{'model__max_depth': None, 'model__min_samples_leaf': 1, 'model__n_estimators': 200}"
+Portuguese,SVM,0.5657575757575757,"{'model__C': 0.1, 'model__kernel': 'linear'}"
+Portuguese,KNN,0.4813352284749315,"{'model__n_neighbors': 3, 'model__weights': 'uniform'}"
+Portuguese,ANN,0.5073491517991201,"{'model__alpha': 0.0001, 'model__hidden_layer_sizes': (64, 32)}"
