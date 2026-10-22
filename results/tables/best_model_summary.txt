@@ -1,0 +1,18 @@
+Best model per dataset, ranked by test F1-score
+
+Dataset: Mathematics
+Model: SVM
+Accuracy: 0.7215
+Precision: 0.7460
+Recall: 0.8868
+F1-score: 0.8103
+ROC-AUC: 0.7199
+
+Dataset: Portuguese
+Model: SVM
+Accuracy: 0.8154
+Precision: 0.8839
+Recall: 0.9000
+F1-score: 0.8919
+ROC-AUC: 0.6655
+
